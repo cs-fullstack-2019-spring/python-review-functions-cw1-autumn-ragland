@@ -1,3 +1,6 @@
+### 2 POINTS
+### KEY: Nice job! Creative use of alternative methods!
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
